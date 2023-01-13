@@ -205,7 +205,7 @@ class Asteroid(pygame.sprite.Sprite):
         self.spawn()
         screen.blit(self.image, self.rect)
 
-        pygame.draw.rect(screen, (255, 0, 0), self.hitbox, 3)
+        #pygame.draw.rect(screen, (255, 0, 0), self.hitbox, 3)
 
 
 class PowerUp:
