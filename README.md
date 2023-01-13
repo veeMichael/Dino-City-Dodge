@@ -28,3 +28,9 @@ Note:
 There are a few bugs I had a bit trouble figuring out how to fix but they are minor.
 - The blocks / speed up images sometimes can be seen partially or mostly of screen but are still interactable.
 - when you get hit by a block it can become a bit buggy but if you click the "R" button it should reset everything.
+
+Credits:
+For player art:
+https://arks.itch.io/dino-characters
+for BG art:
+[https://opengameart.org](https://opengameart.org/content/industrial-parallax-background)
