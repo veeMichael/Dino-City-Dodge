@@ -3,9 +3,8 @@
 After a couple Pygame attempts I finally got something decent I feel like.
 The objective of this game is to survive as long as you can while blocks fall from the sky. If you get hit you lose.
 
-You can play the game in 2 ways.
-1) download everything and run it on your computer through a proper text editor or an IDE like Pycharm. (It should not be a problem because of import os)
-2) I will provide another folder where you can run the game and play via that.
+You can play the game via running the files in your text editor / IDE while having the folders in the proper place.
+(I had issues with pyinstaller so I cant provide a proper exe file to play it at the moment)
 
 After you run the game via text editor/IDE or via the exe. file the controls for the game are as following:
 
