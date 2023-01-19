@@ -28,6 +28,10 @@ There are a few bugs I had a bit trouble figuring out how to fix but they are mi
 - The blocks / speed up images sometimes can be seen partially or mostly of screen but are still interactable.
 - when you get hit by a block it can become a bit buggy but if you click the "R" button it should reset everything.
 
+Screen shot:
+![Untitled](https://user-images.githubusercontent.com/91182988/213555108-e39162db-a4d4-48f3-af83-d0a39305149c.png)
+
+
 Credits:
 For player art:
 https://arks.itch.io/dino-characters
