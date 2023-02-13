@@ -1,32 +1,45 @@
 # Dino-City-Dodge (PyGame)
 
-After a couple Pygame attempts I finally got something decent I feel like.
-The objective of this game is to survive as long as you can while blocks fall from the sky. If you get hit you lose.
+A survival game built using Pygame, where the objective is to survive as long as possible while avoiding falling blocks. The game gets faster as you survive longer, making it challenging to maintain your score.
 
-You can play the game via running the files in your text editor / IDE while having the folders in the proper place.
-(I had issues with pyinstaller so I cant provide a proper exe file to play it at the moment)
+- - - 
 
-After you run the game via text editor/IDE or via the exe. file the controls for the game are as following:
+Getting Started
 
-Left arrow / Left arrow + shift - > Walk left / Run left
-Right arrow / Right arrow + shift - > Walk right / Run right
-Space - Jump
-R - Restart (You may at the start, middle or end of the game and it will reset it)
-Q - closes the program.
+To play the game, you need to run the files in your text editor/IDE while keeping the necessary folders in place. Currently, there are some issues with Pyinstaller, so an executable file is not available.
 
-The objective of the game:
-Last as long as you can and get as high of a score as possible. The longer the game goes the faster the blocks drop, with a maximum of 3 blocks falling.
-There is a speed up object you can collide with on the screen in order to increase your speed steadily to help you survive longer, though at the same time it can cause you to bump into the blocks uninentionally so keep that in mind.
+- - - 
 
-Built with:
-PyGame
-Created by:
-Me
+Controls
 
-Note:
-There are a few bugs I had a bit trouble figuring out how to fix but they are minor.
-- The blocks / speed up images sometimes can be seen partially or mostly of screen but are still interactable.
-- when you get hit by a block it can become a bit buggy but if you click the "R" button it should reset everything.
+Left arrow / Left arrow + shift: Walk left / Run left
+
+Right arrow / Right arrow + shift: Walk right / Run right
+
+Space: Jump
+
+R: Restart the game
+
+Q: Close the program
+
+- - -
+
+Gameplay
+
+The objective of the game is to last as long as possible and achieve the highest score. You can increase your speed by colliding with a speed up object, but be careful as this can also lead to unintended collisions with the falling blocks.
+
+- - -
+
+Bugs
+
+Please note that there are some minor bugs in the game, such as the blocks or speed up objects sometimes appearing partially or mostly off-screen, but they are still interactable. If the game becomes buggy after a collision, pressing the "R" button should reset everything.
+
+- - -
+
+Built with: Pygame
+Created by: veeMichael (Me)
+
+Please enjoy the game and let me know if you have any questions or feedback!
 
 Screen shot:
 ![Untitled](https://user-images.githubusercontent.com/91182988/213555108-e39162db-a4d4-48f3-af83-d0a39305149c.png)
