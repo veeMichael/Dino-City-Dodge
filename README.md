@@ -8,6 +8,8 @@ Getting Started
 
 To play the game, you need to run the files in your text editor/IDE while keeping the necessary folders in place. Currently, there are some issues with Pyinstaller, so an executable file is not available.
 
+You will also need to run: 'pip install pygame' if you do not have it installed already.
+
 - - - 
 
 Controls
